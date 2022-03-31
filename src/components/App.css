@@ -1,0 +1,14 @@
+.WUT {
+  background-color: black;
+  width: 100vw;
+  height: 100vh;
+}
+
+.title {
+  margin-bottom: 0px;
+}
+
+.title-footnote {
+  margin-top: 0px;
+  font-style: italic;
+}
